@@ -1,2 +1,2 @@
-# matlab
-Collection of matlab project about Automation and Electrical engineering
+# matlab electrical engineering
+Collection of matlab project Electrical engineering
